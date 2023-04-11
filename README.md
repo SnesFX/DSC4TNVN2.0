@@ -1,4 +1,4 @@
-# DSC4DDLC
+# DSC4DDLC (Doki Selection Code For DDLC)
  
 * The custom Doki Selection Code from my Doki Doki The Normal VN Port but reworked for base ddlc!
 
