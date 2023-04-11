@@ -8,4 +8,4 @@
 
 # Credits
 
-* SnesFX - Making the script.
+* [SnesFX](https://twitter.com/snesfx) - Making the script.
